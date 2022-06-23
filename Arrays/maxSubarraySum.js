@@ -1,4 +1,4 @@
-// Challenge - maxSubarraySum
+// Challenge -  maxSubarraySum
 
 /*
 
