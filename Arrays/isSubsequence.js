@@ -11,7 +11,7 @@ isSubsequence('abc', 'acb')            // false
 
 */
 
-// Solution-1 (Time complexity - (n) and Space complexity O(n))
+// Solution-1 (Time complexity - O(n) and Space complexity O(n))
 
 function isSubsequence(subString, mainString){
 
