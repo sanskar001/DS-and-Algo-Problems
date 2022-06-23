@@ -1,4 +1,4 @@
-// Chanllenge: averagePair
+// Chanllenge:  averagePair
 
 /*
 
