@@ -1,4 +1,4 @@
-// Chanllenge: minSubArrayLen
+// Chanllenge:  minSubArrayLen
 
 /*
 
