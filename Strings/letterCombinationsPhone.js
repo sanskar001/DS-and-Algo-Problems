@@ -14,6 +14,8 @@ Output: ["ad","ae","af","bd","be","bf","cd","ce","cf"]
 
 */
 
+// Time complexity - ~ O(3^n)
+
 var letterCombinations = function(digits) {
 
     if(digits.length === 0) return [];
