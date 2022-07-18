@@ -41,6 +41,28 @@ const isPalindrome = function(s) {
     return true;
 }; 
 
+// Same Time complexity and Space complexity:
+
+// var isPalindrome = function(s) {
+
+//     let mid = Math.floor((s.length - 1) / 2);
+//     let left = mid;
+//     let right = (s.length % 2 === 0)? mid + 1: mid;
+
+//     while (left >= 0 && right < s.length){
+
+//         if(s[left] === s[right]){
+//             left--;
+//             right++;
+//         }
+//         else {
+//             return false;
+//         }
+//     }
+
+//     return true;
+// }
+
 
 // Testing:
 
