@@ -15,7 +15,7 @@ Output: [1,2,3,4,8,12,11,10,9,5,6,7]
 
 */
 
-// Solution: Time complexity - ~ O(n2) Space complexity - O()
+// Solution: Time complexity -  O(m*n) Space complexity - O(1)
 
 var spiralOrder = function(matrix) {
     
