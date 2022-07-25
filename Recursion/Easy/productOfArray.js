@@ -2,8 +2,10 @@ function productOfArray(arr){
     if(arr.length === 0){
         return 1;
     }
+
+    let lastValue = arr.pop();
     
-    return arr[0] * productOfArray(arr.slice(1));
+    return lastValue * productOfArray(arr);
 }
 
 // Testing:
